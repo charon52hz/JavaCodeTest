@@ -3,7 +3,7 @@ package org.chz.backTrack;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Combine {
+public class 组合问题 {
     List<List<Integer>> res = new ArrayList<>();
     List<Integer> path = new ArrayList<>();
 
